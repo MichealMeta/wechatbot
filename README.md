@@ -1,3 +1,6 @@
+博客教程地址: https://blog.xyzcloud.cloud/?p=136
+Github原项目地址: https://github.com/qingconglaixueit/wechatbot
+
 # wechatbot
 
 > 本项目是 fork 他人的项目来进行学习和使用，请勿商用，可以下载下来做自定义的功能
